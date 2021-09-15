@@ -1,5 +1,5 @@
 /**
- * C program to print number in words/
+ * C program to print number in words/ abc
  */
 
 #include <stdio.h>
